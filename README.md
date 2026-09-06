@@ -1,1 +1,2 @@
-Hello Just i'm checking github 
+Hello Just i'm checking github
+My name is chandan 
