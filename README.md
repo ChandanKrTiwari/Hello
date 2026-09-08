@@ -1,1 +1,1 @@
-Hello Just i m cheking the git
+Hello just i am checking the github
